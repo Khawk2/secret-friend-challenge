@@ -25,8 +25,24 @@ function addFriend() {
     friends.push(friendName);
 
     //Actualizar la lista de amigos y que pueda ser visible
-    updateFriendsList();
+    updateFriendList();
 
     //Limpiar el campo de texto(input)
     friend.value = "";
+}
+
+// Función para actualizar la lista de amigos
+function updateFriendList(){
+    let friendList = document.getElementById('friendsList');
+
+    //Limpiar la lista
+    friendList.innerHTML = "";
+
+    //Iterar sobre la lista de amigos y agregarlos a la lista
+    for (let i = 0; i < friends.length; i++){
+        let friend = friends[i];
+        let listItem = `<li class="friend-item">${friend}</li>`;
+        friendList.innerHTML += listItem;
+    }
+
 }
