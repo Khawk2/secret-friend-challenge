@@ -6,7 +6,7 @@ Este proyecto es una herramienta interactiva para sortear un "amigo secreto" de 
 
 El proyecto ya está desplegado y puedes acceder a él en el siguiente enlace:
 
-**[Ver Proyecto en Línea](#)**
+**VInteractuar con el proyecto en:** **[https://khawk2.github.io/secret-friend-challenge/](#)**
 
 ## Características
 
@@ -65,6 +65,9 @@ Incluye funciones para:
 - **drawFriends:** Sortea un ganador al azar de entre los participantes registrados
 
 ## Captura de Pantalla
+![image](https://github.com/user-attachments/assets/82a0472b-f548-47b3-9cba-6419a18bafd1)
+
+![image](https://github.com/user-attachments/assets/cdff170e-d09d-48a2-8066-a0b14df02425)
 
 
 ## Mejoras Futuras
@@ -73,5 +76,5 @@ Incluye funciones para:
 - Agregar estilos adicionales para mejorar la experiencia de usuario.
 
 ## Créditos
-- Proyecto desarrollado con el fin de mejorar habilidades de lógica de programación y desarrollo web, y que  es parte de **Alura Latam y Oracle** como el primer challenge   
+- Proyecto desarrollado con el fin de mejorar habilidades de lógica de programación y desarrollo web, y que  es parte de **Alura Latam y Oracle** como el primer challenge.
 
