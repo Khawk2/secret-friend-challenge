@@ -46,3 +46,19 @@ function updateFriendList(){
     }
 
 }
+
+// Función para sortear un amigo
+function drawFriends(){
+    //Validar que haya al menos 1 amigo
+    if (friends.length < 1){
+        alert("Debes agregar al menos un Nombre");
+        return;
+    }
+
+    //Obtener un amigo aleatorio
+    let winner = friends[Math.floor(Math.random() * friends.length)];
+
+    //Mostrar el ganador en pantalla
+    let winnerFriend = document.getElementById('winner');
+    winnerFriend.textContent = `¡${winner} es el ganador!`
+}
