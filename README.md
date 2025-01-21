@@ -6,7 +6,9 @@ Este proyecto es una herramienta interactiva para sortear un "amigo secreto" de 
 
 El proyecto ya está desplegado y puedes acceder a él en el siguiente enlace:
 
-**VInteractuar con el proyecto en:** **[https://khawk2.github.io/secret-friend-challenge/](#)**
+**Interactuar con el proyecto en:** **[https://khawk2.github.io/secret-friend-challenge/](#)**
+
+Copia y pega el enlace en tú navegador para jugar
 
 ## Características
 
